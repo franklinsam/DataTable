@@ -1,8 +1,8 @@
-import * as bootstrap from 'bootstrap'
-import 'bootstrap/dist/css/bootstrap.min.css'
+// import * as bootstrap from 'bootstrap'
+// import 'bootstrap/dist/css/bootstrap.min.css'
 
-// You can add any additional JavaScript initialization here
-window.bootstrap = bootstrap;
+// // You can add any additional JavaScript initialization here
+// window.bootstrap = bootstrap;
 
 document.addEventListener('livewire:initialized', () => {
     // Function to handle column visibility dropdown behavior
